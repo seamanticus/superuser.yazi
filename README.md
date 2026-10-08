@@ -111,7 +111,7 @@ triage routes each of those steps correctly on its own.
 ## Installation
 
 ```bash
-ya pkg add sail3r/superuser
+ya pkg add seamanticus/superuser
 ```
 
 That's the whole dependency tree. SuperUser assumes only:
